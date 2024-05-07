@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "RnD_Organization"
+    organization = "terraform-organization-demo"
 
     workspaces {
       name = "terraform-workspace"
