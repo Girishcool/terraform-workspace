@@ -3,7 +3,7 @@ terraform {
     organization = "RnD_Organization"
 
     workspaces {
-      name = "myapp-test"
+      name = "terraform-workspace"
     }
   }
 }
